@@ -1,8 +1,9 @@
 ## Next Fastest Train Support
 
 ### Using the app
-Create boards by pressing the menu icon and clicking Add Board
-Select a departure station and a destination station. Additional destination stations can be added by pressing the + icon.
+Create boards by pressing the menu icon and pressing Add Board.
+Select a departure station and a destination station. 
+Additional destination stations can be added by pressing the + icon.
 
 Press a destination then press Other trains to... to see other departures.
 
